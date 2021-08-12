@@ -9,5 +9,4 @@ public class ToDoListTestApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ToDoListTestApplication.class, args);
 	}
-
 }
